@@ -2,25 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
-    
-    <lastmod>2022-08-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/index.html</loc>
-    
-    <lastmod>2022-08-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/2022/08/16/Spring/</loc>
+    
+    <lastmod>2022-08-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2022/08/16/JavaSE/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -38,9 +29,18 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/08/16/hello-world/</loc>
+    <loc>http://example.com/categories/index.html</loc>
     
-    <lastmod>2022-08-15</lastmod>
+    <lastmod>2022-08-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/index.html</loc>
+    
+    <lastmod>2022-08-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -63,7 +63,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/Jvm/</loc>
+    <loc>http://example.com/tags/JVM/</loc>
     <lastmod>2022-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -94,6 +94,20 @@
   
   <url>
     <loc>http://example.com/categories/Java/Spring%E5%85%A8%E5%AE%B6%E6%A1%B6/</loc>
+    <lastmod>2022-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/Java/JVM/</loc>
+    <lastmod>2022-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/Java/JavaSE/</loc>
     <lastmod>2022-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
