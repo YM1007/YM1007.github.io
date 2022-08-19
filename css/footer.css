@@ -1,0 +1,5 @@
+#footer {
+    /* 与背景渐变效果一致*/
+    background-image: linear-gradient(-225deg, #333333 0%, #333333 28%, #333333 100%);
+}
+
